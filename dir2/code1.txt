@@ -1,1 +1,2 @@
 This is Code 1 of ABC Organization
+This is the New line of code added after moving code1 from dir1 to dir2
